@@ -1,4 +1,4 @@
-module go-pkg
+module github.com/blocktock/go-pkg
 
 go 1.21
 
