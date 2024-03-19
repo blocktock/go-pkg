@@ -2,8 +2,8 @@ package log
 
 import (
 	"context"
+	"github.com/blocktock/go-pkg/tracex"
 	rotatelogs "github.com/lestrrat/go-file-rotatelogs"
-	"go-pkg/tracex"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"io"
