@@ -3,5 +3,5 @@
 ## Getting Started
 
 ```bash
-go get github.com/blockstock/go-pkg
+go get github.com/blocktock/go-pkg
 ```
